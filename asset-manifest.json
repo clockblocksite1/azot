@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/azot/static/css/main.73874bc3.css",
+    "main.js": "/azot/static/js/main.fcd227bb.js",
+    "static/js/592.3ee3b33a.chunk.js": "/azot/static/js/592.3ee3b33a.chunk.js",
+    "static/media/discord.jpg": "/azot/static/media/discord.119aff033a090bdc8622.jpg",
+    "index.html": "/azot/index.html",
+    "main.73874bc3.css.map": "/azot/static/css/main.73874bc3.css.map",
+    "main.fcd227bb.js.map": "/azot/static/js/main.fcd227bb.js.map",
+    "592.3ee3b33a.chunk.js.map": "/azot/static/js/592.3ee3b33a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73874bc3.css",
+    "static/js/main.fcd227bb.js"
+  ]
+}
